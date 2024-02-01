@@ -1,7 +1,8 @@
 # Hemant Raj's Portfolio
 
-This is a personal portfolio website for showcasing Hemant Raj's skills, projects, and experiences. The website is designed and developed using HTML, CSS, and JavaScript.
-You can checkout this website on: http://hemantraj19.github.io/portfolio-website/
+This is a personal portfolio website for showcasing Hemant Raj's skills, projects, and experiences. The website is designed and developed using HTML, CSS, and JavaScript. 
+ 
+ You can checkout this website on: http://hemantraj19.github.io/portfolio-website/
 
 ## Table of Contents
 - [Introduction](#introduction)
